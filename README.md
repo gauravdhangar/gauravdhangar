@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Career option after Engineering, Basics of Software Testing.
 - 📫 How to reach me: You can reach me via Linkedin.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a below average guy graduated from tier 3 college, with bare minimum passing marks. But that didn't stop me from building my career. Through hard and smart work, I have got into software testing. I am currently working as QAT in Amazon. I am no expert in software testing. And that is why I always eager to learn. 
+- ⚡ Fun fact: From humble beginnings at a Tier 3 college, I've forged a successful path in the world of software testing. I started my career as a Quality Analyst at Casperon Technologies Pvt. Ltd. in Chennai, where I honed my skills for a year. With tenacity and a blend of dedication and innovation, I've continued to elevate my career, and I am currently serving as a Senior Software Engineer at SMC Global Securities Limited in Delhi. Through this journey, I've landed a role at Amazon as a Quality Assurance Tech. Continuously striving to enhance my expertise, I'm always on the lookout for new learning opportunities in the dynamic field of software testing. 🚀 #SoftwareTestingJourney
 
 <img src = "https://github-readme-stats.vercel.app/api?username=gauravdhangar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
