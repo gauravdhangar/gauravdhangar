@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Senior Software Engineer and have over 5 years of experience.
 - 🌱 I’m currently learning Web and API Automation using Python
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Software Testing projects in the Fintech domain.
 - 🤔 I’m looking for help with Learning path for software automation(Selenium, Appium).
 - 💬 Ask me about Career options after Engineering, Software Testing.
 - 📫 How to reach me: You can reach me via Linkedin.
